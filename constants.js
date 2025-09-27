@@ -1,6 +1,6 @@
 //CONSTANTS USED ACROSS ALL SCRIPTS
 //Colour values
-export const defaultListColour = 'rgba(180, 230, 255, 1)';
+export const defaultListColour = '#b4e6ffff';
 export const defaultCardColour = '#f7fbffff';
 export const defaultListTextColour = '#000000ff';
 export const defaultCardTextColour = '#000000ff';

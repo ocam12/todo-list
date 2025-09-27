@@ -81,7 +81,6 @@ const reinitialiseCards = (evt) => {
 
     //adds card to new list
     toColumn.cards.splice(newIndex, 0, movedCard);
-    generateBoard();
     saveBoardData();
 }
 

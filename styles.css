@@ -136,7 +136,7 @@ main{
     padding-left: 0;
     padding-top: 10px;
     padding-bottom: 10px;
-    z-index: 100;
+    z-index: 500;
 }
 
 .cards{
@@ -217,7 +217,6 @@ main{
     position: absolute;
     top: 100%;
     left: 0;
-    z-index: 10;
     background-color: rgb(255, 255, 255);
     color: black;
     padding: 10px 10px;
